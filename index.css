@@ -1,0 +1,10 @@
+
+  h1 {
+    transition: all 0.3s; /* Transition all properties over 0.3 seconds */
+  }
+
+  h1:hover {
+    background-color: white; /* Change background color on hover */
+    color: blue; /* Change text color on hover */
+  }
+
